@@ -14,7 +14,7 @@ export const DashboardStack = () => {
     <Stack.Navigator
       initialRouteName="DashboardOnboarding"
       screenOptions={{
-        headerTitle: 'Empty Stack',
+        headerTitle: 'Onboarding',
       }}>
       <Stack.Screen
         name="DashboardOnboarding"
